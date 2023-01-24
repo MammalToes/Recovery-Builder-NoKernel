@@ -14,11 +14,11 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-10.0-deprecated
+  MANIFEST_BRANCH: twrp-10.0-deprecated
+  DEVICE: timelm
+  DT_LINK: https://github.com/MammalToes/Twrp_timelm_v-V600
+  DT_PATH: main
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
