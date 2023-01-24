@@ -18,7 +18,7 @@ env:
   MANIFEST_BRANCH: twrp-11
   DEVICE: timelm
   DT_LINK: https://github.com/MammalToes/Twrp_timelm_v-V600
-  DT_PATH: main
+  DT_PATH: /main
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
