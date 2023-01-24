@@ -14,8 +14,8 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-10.0-deprecated
-  MANIFEST_BRANCH: twrp-10.0-deprecated
+  MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git
+  MANIFEST_BRANCH: twrp-11
   DEVICE: timelm
   DT_LINK: https://github.com/MammalToes/Twrp_timelm_v-V600
   DT_PATH: main
